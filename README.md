@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M-Ali-Alam
+- 👀 I’m interested in Computational Genomic. My other area of interest is Mobile Application Development and Web Application Development 
+- 🌱 I’m currently learning .Net core, React, React Native, Unity 3D, Node
+- 💞️ I’m looking to collaborate on any interesting project realted to Computational Genomics
+- 📫 How to reach me emial me at muhammadalialam14@gmail.com
