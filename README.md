@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @M-Ali-Alam
-- 👀 I’m interested in Computational Genomic other than that, I am intersted in software development (Mobile, Web, Desktop and Games) 
-- 🌱 I’m currently learning MERN stack.
+- 👋 Hi, I’m @M-Ali-Alam.
+- 👀 I’m interested in Computational Genomic other than that, I am intersted in software development (Mobile, Web, Desktop and Games). 
+- 🌱 I’m currently a Full Stack Developer.
 - 💞️ I’m looking to collaborate on any interesting project realted to Computational Genomics and software development.
-- 📫 How to reach me; email me at muhammadalialam14@gmail.com
+- 📫 How to reach me; email me at muhammadalialam14@gmail.com.
