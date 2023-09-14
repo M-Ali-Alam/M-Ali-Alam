@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M-Ali-Alam.
-- 👀 My Primary interest lies in Software Development. I am currently trying to learn more about Software Architecture and design patterns.
-- 🌱 I’m a Full Stack Software Developer.
-- 💞️ I’m looking to collaborate on any interesting project realted to software development.
-- 📫 If you have any interesting proejcts in mind reach me out at muhammadalialam14@gmail.com.
-- 🙂 Have a good day.
+- 👋 Hi, I'm @M-Ali-Alam.
+- 👀 My primary interest lies in software development. I am currently learning more about software architecture and design patterns.
+- 🌱 I'm a Full Stack Software Developer.
+- 💞️ I'm open to collaborating on any interesting projects related to software development.
+- 📫 If you have any interesting projects in mind, please reach out to me at muhammadalialam14@gmail.com.
+- 🙂 Have a great day.
