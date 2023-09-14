@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @M-Ali-Alam.
-- 👀 I’m interested in Computational Genomic other than that, I am intersted in software development (Mobile, Web, Desktop and Games). 
+- 👀 My Primary interest lies in Software Development. I am currently trying to learn more about Software Architecture and design patterns.
 - 🌱 I’m a Full Stack Software Developer.
-- 💞️ I’m looking to collaborate on any interesting project realted to software development and Computational Genomics.
-- 📫 How to reach me; email me at muhammadalialam14@gmail.com.
+- 💞️ I’m looking to collaborate on any interesting project realted to software development.
+- 📫 If you have any interesting proejcts in mind reach me out at muhammadalialam14@gmail.com.
+- 🙂 Have a good day.
