@@ -1,4 +1,4 @@
-- 👋 Greetings! I'm @M-Ali-Alam, a passionate Full Stack Software Developer with a keen interest in software development, particularly in exploring the intricacies of software architecture and design patterns.
+- 👋 Greetings! I'm Muhammad Ali Alam, a passionate Full Stack Software Developer with a keen interest in software development, particularly in exploring the intricacies of software architecture and design patterns.
 - 👀 Currently on a journey of continuous learning and growth, I thrive on building robust and innovative solutions that make a meaningful impact. Whether it's back-end logic, front-end interfaces, or anything in between, I enjoy the challenge of crafting elegant code.
 - 🌱 I'm enthusiastic about collaboration and am open to contributing to intriguing projects that push the boundaries of what's possible. If you have an exciting project in mind or are looking for a dedicated teammate, feel free to reach out to me at muhammadalialam14@gmail.com. Let's bring ideas to life together!
 - 🙂 Wishing you a fantastic day filled with coding adventures and successful endeavors!
